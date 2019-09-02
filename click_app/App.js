@@ -28,7 +28,7 @@ const App = () => {
   return (
     <View>
 
-      <Text>Sub branch to master</Text>
+      <Text>Changes for holding to check feature in master</Text>
 
     </View>
   );
