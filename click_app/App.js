@@ -27,7 +27,7 @@ import {
 const App = () => {
   return (
     <View>
-      <Text>Hello World</Text>
+      <Text>Sub branch to master</Text>
     </View>
   );
 };
