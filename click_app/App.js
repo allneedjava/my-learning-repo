@@ -27,7 +27,9 @@ import {
 const App = () => {
   return (
     <View>
-      <Text>Merge</Text>
+
+      <Text>Sub branch to master</Text>
+
     </View>
   );
 };
